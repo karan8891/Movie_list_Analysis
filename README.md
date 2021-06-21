@@ -9,6 +9,7 @@ A list of movies with certain values has been analyzed and experimented by me to
  
  Step 3:
  Adding Numbering system or IDs for values
+ Proper borders and highlighting headers to make data more readable
  
  Step 4:
  Deleting irrelevant datasets for proper analysis
@@ -17,10 +18,11 @@ A list of movies with certain values has been analyzed and experimented by me to
  Visualization for insights
  
  Scenario A-
- Keeping only Num,	Movie, Title,	Release Date,	Genre	Budget ($),	Box Office Revenue ($)
+ Keeping only Num,	Movie, Title,	Release Date,	Genre (1),	Director (1),	Budget ($),	Box Office Revenue ($) coloumns
  
  ~Filtered Action Genre
  ~For Determining outliers in dataset
+ ~Applying different filers to Pivot Chart to see changes
  
  Scenario B-
  
