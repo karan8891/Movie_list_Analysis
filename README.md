@@ -26,4 +26,4 @@ A list of movies with certain values has been analyzed and experimented by me to
  
  Scenario B-
  
- 
+ ~Comparing success rate of directors for the same data based on Revenue generated
